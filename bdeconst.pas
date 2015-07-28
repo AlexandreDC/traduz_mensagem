@@ -41,7 +41,7 @@ resourcestring
   SDatabaseEditor = 'Da&tabase Editor...';
   SExplore = 'E&xplorar';
   SLinkDetail = '''%s'' não pode ser aberto';
-  SLinkMasterSource = 'A propriedade MasterSource do ''%s'' deve estar associado a um DataSource';
+  SLinkMasterSource = 'A propriedade MasterSource do ''%s'' deve estar associado a um DataSource!!!';
   SLinkMaster = 'Incapaz de abrir a tabela MasterSource';
   SGQBEVerb = '&Query Builder...';
   SBindVerb = 'Definir &Parâmetros...';
