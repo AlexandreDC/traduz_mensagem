@@ -36,7 +36,7 @@ resourcestring
   sTooManyPanels = 'Barra de status não pode ter mais de 64 painéis';
 
   sHKError = 'Erro ao atribuir Hot-Key à %s. %s';
-  sHKInvalid = 'Hot-Key inválida';
+  sHKInvalid = 'Hot-Key inválida';dddddddd
   sHKInvalidWindow = 'Janela inválida ou Janela filha';
   sHKAssigned = 'Hot-Key está atribuída a outra janela';
 
