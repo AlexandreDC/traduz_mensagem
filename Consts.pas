@@ -14,63 +14,63 @@ interface
 resourcestring
 
   SOpenFileTitle = 'Abrir';
-  SCantWriteResourceStreamError = 'N„o È possÌvel gravar em um fluxo de recusos somente de leitura';
-  SDuplicateReference = 'Objeto chamado duas vezes pela mesma inst‚ncia';
-  SClassMismatch = 'Arquivo de recursos %s È de classe incorreta';
-  SInvalidTabIndex = 'Indexador de tabulaÁ„o fora de faixa';
-  SInvalidTabPosition = 'PosiÁ„o da aba incompatÌvel com Estilo da aba corrente';
-  SInvalidTabStyle = 'Estilo da aba incompatÌvel com a posiÁ„o da aba corrente';
-  SInvalidBitmap = 'Bitmap n„o È v·lido';
-  SInvalidIcon = 'Õcone n„o È v·lido';
-  SInvalidMetafile = 'Metafile n„o È v·lido';
-  SInvalidPixelFormat = 'Formato de pixel inv·lido';
-  SInvalidImage = 'Formato de fluxo inv·lido';
-  SBitmapEmpty = 'Bitmap est· vazio';
+  SCantWriteResourceStreamError = 'N√£o √© poss√≠vel gravar em um fluxo de recusos somente de leitura';
+  SDuplicateReference = 'Objeto chamado duas vezes pela mesma inst√¢ncia';
+  SClassMismatch = 'Arquivo de recursos %s √© de classe incorreta';
+  SInvalidTabIndex = 'Indexador de tabula√ß√£o fora de faixa';
+  SInvalidTabPosition = 'Posi√ß√£o da aba incompat√≠vel com Estilo da aba corrente';
+  SInvalidTabStyle = 'Estilo da aba incompat√≠vel com a posi√ß√£o da aba corrente';
+  SInvalidBitmap = 'Bitmap n√£o √© v√°lido';
+  SInvalidIcon = '√çcone n√£o √© v√°lido';
+  SInvalidMetafile = 'Metafile n√£o √© v√°lido';
+  SInvalidPixelFormat = 'Formato de pixel inv√°lido';
+  SInvalidImage = 'Formato de fluxo inv√°lido';
+  SBitmapEmpty = 'Bitmap est√° vazio';
   SScanLine = 'Procura de indexador de linha fora de faixa';
-  SChangeIconSize = 'N„o È possÌvel trocar o tamanho do Ìcone';
-  SOleGraphic = 'OperaÁ„o inv·lida em TOleGraphic';
-  SUnknownExtension = 'Arquivo de imagem com extenÁ„o (.%s) ignorado';
-  SUnknownClipboardFormat = 'Formato n„o suportado';
+  SChangeIconSize = 'N√£o √© poss√≠vel trocar o tamanho do √≠cone';
+  SOleGraphic = 'Opera√ß√£o inv√°lida em TOleGraphic';
+  SUnknownExtension = 'Arquivo de imagem com exten√ß√£o (.%s) ignorado';
+  SUnknownClipboardFormat = 'Formato n√£o suportado';
   SOutOfResources = 'Sistema sem recursos';
-  SNoCanvasHandle = 'O canvas n„o esta permitindo desenhar';
-  SInvalidImageSize = 'Tamanho de imagem inv·lido';
+  SNoCanvasHandle = 'O canvas n√£o esta permitindo desenhar';
+  SInvalidImageSize = 'Tamanho de imagem inv√°lido';
   STooManyImages = 'Muitas imagens';
-  SDimsDoNotMatch = 'Dimensıes da imagem diferente da lista de imagens';
-  SInvalidImageList = 'ImageList inv·lido';
+  SDimsDoNotMatch = 'Dimens√µes da imagem diferente da lista de imagens';
+  SInvalidImageList = 'ImageList inv√°lido';
   SReplaceImage = 'Impossibilitado de trocar a imagem';
-  SImageIndexError = 'Indexador do ImageList inv·lido';
+  SImageIndexError = 'Indexador do ImageList inv√°lido';
   SImageReadFail = 'Falha ao ler os dados do ImageList para o fluxo';
   SImageWriteFail = 'Falha ao gravar dados no ImageList para o fluxo';
   SWindowDCError = 'Erro ao criar a janela de contexto do dispositivo';
-  SClientNotSet = 'Cliente do TDrag n„o inicializado';
+  SClientNotSet = 'Cliente do TDrag n√£o inicializado';
   SWindowClass = 'Erro criando a classe da janela';
   SWindowCreate = 'Erro criando a janela';
-  SCannotFocus = 'N„o È possÌvel focar uma janela invisÌvel ou n„o permitida';
-  SParentRequired = 'Controle ''%s'' n„o tem antecessor na janela';
-  SParentGivenNotAParent = 'Controle requerido n„o È um ancestral de ''%s''';
-  SMDIChildNotVisible = 'N„o È possÌvel esconder um formul·rio filho MDI';
-  SVisibleChanged = 'N„o È possÌvel trocar a propriedade Visible em OnShow ou OnHide';
-  SCannotShowModal = 'N„o È possÌvel marcar uma janela visÌvel como modal';
+  SCannotFocus = 'N√£o √© poss√≠vel focar uma janela invis√≠vel ou n√£o permitida';
+  SParentRequired = 'Controle ''%s'' n√£o tem antecessor na janela';
+  SParentGivenNotAParent = 'Controle requerido n√£o √© um ancestral de ''%s''';
+  SMDIChildNotVisible = 'N√£o √© poss√≠vel esconder um formul√°rio filho MDI';
+  SVisibleChanged = 'N√£o √© poss√≠vel trocar a propriedade Visible em OnShow ou OnHide';
+  SCannotShowModal = 'N√£o √© poss√≠vel marcar uma janela vis√≠vel como modal';
   SScrollBarRange = 'Propriedade Scrollbar fora de faixa';
   SPropertyOutOfRange = 'Propriedade %s fora de faixa';
-  SMenuIndexError = 'Õndice de menu fora de faixa';
+  SMenuIndexError = '√çndice de menu fora de faixa';
   SMenuReinserted = 'Menu inserido duas vezes';
-  SMenuNotFound = 'Sub-menu n„o est· em um menu';
-  SNoTimers = 'N„o h· timers suficientes';
-  SNotPrinting = 'Impressora n„o est· imprimindo agora';
-  SPrinting = 'Impress„o em progresso';
+  SMenuNotFound = 'Sub-menu n√£o est√° em um menu';
+  SNoTimers = 'N√£o h√° timers suficientes';
+  SNotPrinting = 'Impressora n√£o est√° imprimindo agora';
+  SPrinting = 'Impress√£o em progresso';
   SPrinterIndexError = 'Indice da impressora fora de faixa';
-  SInvalidPrinter = 'Impressora selecionada n„o È v·lida';
+  SInvalidPrinter = 'Impressora selecionada n√£o √© v√°lida';
   SDeviceOnPort = '%s em %s';
-  SGroupIndexTooLow = 'GroupIndex n„o pode ser menor que o Ìtem de menu anterior ao GroupIndex';
-  STwoMDIForms = 'N„o È possÌvel ter mais que um formul·rio MDI por aplicaÁ„o';
-  SNoMDIForm = 'N„o È possÌvel criar formul·rio. N„o h· formul·rios MDI ativos neste momento';
-  SImageCanvasNeedsBitmap = 'N„o È possÌvel modificar um TImage que contÈm um bitmap';
-  SControlParentSetToSelf = 'Um controle n„o pode ter ele mesmo como seu antecessor';
+  SGroupIndexTooLow = 'GroupIndex n√£o pode ser menor que o √≠tem de menu anterior ao GroupIndex';
+  STwoMDIForms = 'N√£o √© poss√≠vel ter mais que um formul√°rio MDI por aplica√ß√£o';
+  SNoMDIForm = 'N√£o √© poss√≠vel criar formul√°rio. N√£o h√° formul√°rios MDI ativos neste momento';
+  SImageCanvasNeedsBitmap = 'N√£o √© poss√≠vel modificar um TImage que cont√©m um bitmap';
+  SControlParentSetToSelf = 'Um controle n√£o pode ter ele mesmo como seu antecessor';
   SOKButton = 'OK';
   SCancelButton = 'Cancelar';
   SYesButton = '&Sim';
-  SNoButton = '&N„o';
+  SNoButton = '&N√£o';
   SHelpButton = '&Ajuda';
   SCloseButton = '&Fechar';
   SIgnoreButton = '&Ignorar';
@@ -78,60 +78,60 @@ resourcestring
   SAbortButton = 'Abortar';
   SAllButton = '&Todos';
 
-  SCannotDragForm = 'N„o È possÌvel arrastar um formul·rio';
-  SPutObjectError = 'PutObject n„o definido para Ìtem';
-  SCardDLLNotLoaded = 'N„o posso carregar CARDS.DLL';
+  SCannotDragForm = 'N√£o √© poss√≠vel arrastar um formul√°rio';
+  SPutObjectError = 'PutObject n√£o definido para √≠tem';
+  SCardDLLNotLoaded = 'N√£o posso carregar CARDS.DLL';
   SDuplicateCardId = 'Encontrado uma duplicata de CardId';
 
   SDdeErr = 'Um erro retornado pelo DDE ($0%x)';
-  SDdeConvErr = 'Erro no DDE - conversaÁ„o n„o estabelecida ($0%x)';
-  SDdeMemErr = 'Erro ocorrido quando DDE rodou sem memÛria ($0%x)';
-  SDdeNoConnect = 'Incapaz de conectar conversaÁ„o DDE';
+  SDdeConvErr = 'Erro no DDE - conversa√ß√£o n√£o estabelecida ($0%x)';
+  SDdeMemErr = 'Erro ocorrido quando DDE rodou sem mem√≥ria ($0%x)';
+  SDdeNoConnect = 'Incapaz de conectar conversa√ß√£o DDE';
 
   SFB = 'FB';
   SFG = 'FG';
   SBG = 'BG';
-  SOldTShape = 'N„o posso carregar uma vers„o antiga de TShape';
+  SOldTShape = 'N√£o posso carregar uma vers√£o antiga de TShape';
   SVMetafiles = 'Metafiles';
-  SVEnhMetafiles = 'Metafiles realÁado';
-  SVIcons = 'Õcone';
+  SVEnhMetafiles = 'Metafiles real√ßado';
+  SVIcons = '√çcone';
   SVBitmaps = 'Bitmaps';
-  SGridTooLarge = 'Grid muito larga para esta operaÁ„o';
+  SGridTooLarge = 'Grid muito larga para esta opera√ß√£o';
   STooManyDeleted = 'Muitas linhas ou colunas deletadas';
-  SIndexOutOfRange = 'Õndice do grid fora de faixa';
-  SFixedColTooBig = 'Contador de colunas fixas deve ser menor ou igual que o n˙mero de colunas';
-  SFixedRowTooBig = 'Contador de linhas fixas deve ser menor ou igual ao n˙mero de linhas';
-  SInvalidStringGridOp = 'N„o È possÌvel inserir ou deletar linhas da grade';
-  SInvalidEnumValue = 'Valor Enum inv·lido';
-  SInvalidNumber = 'Valor numÈrico inv·lido';
-  SOutlineIndexError = 'Õndice de contorno n„o encontrado';
+  SIndexOutOfRange = '√çndice do grid fora de faixa';
+  SFixedColTooBig = 'Contador de colunas fixas deve ser menor ou igual que o n√∫mero de colunas';
+  SFixedRowTooBig = 'Contador de linhas fixas deve ser menor ou igual ao n√∫mero de linhas';
+  SInvalidStringGridOp = 'N√£o √© poss√≠vel inserir ou deletar linhas da grade';
+  SInvalidEnumValue = 'Valor Enum inv√°lido';
+  SInvalidNumber = 'Valor num√©rico inv√°lido';
+  SOutlineIndexError = '√çndice de contorno n√£o encontrado';
   SOutlineExpandError = 'Antecessor deve ser expandido';
-  SInvalidCurrentItem = 'Valor inv·lido para o Ìtem corrente';
-  SMaskErr = 'Valor de entrada inv·lido';
-  SMaskEditErr = 'Valor de entrada inv·lido. Use a tecla Esc para abandonar as alteraÁıes';
-  SOutlineError = 'Õndice de contorno inv·lido';
-  SOutlineBadLevel = 'NÌvel de transferÍncia incorreto';
-  SOutlineSelection = 'SeleÁ„o inv·lida';
+  SInvalidCurrentItem = 'Valor inv√°lido para o √≠tem corrente';
+  SMaskErr = 'Valor de entrada inv√°lido';
+  SMaskEditErr = 'Valor de entrada inv√°lido. Use a tecla Esc para abandonar as altera√ß√µes';
+  SOutlineError = '√çndice de contorno inv√°lido';
+  SOutlineBadLevel = 'N√≠vel de transfer√™ncia incorreto';
+  SOutlineSelection = 'Sele√ß√£o inv√°lida';
   SOutlineFileLoad = 'Erro ao carregar arquivo';
   SOutlineLongLine = 'Linha muito longa';
-  SOutlineMaxLevels = 'M·xima profundidade do contorno excedida';
+  SOutlineMaxLevels = 'M√°xima profundidade do contorno excedida';
 
   SMsgDlgWarning = 'Aviso';
   SMsgDlgError = 'Erro';
-  SMsgDlgInformation = 'InformaÁ„o';
-  SMsgDlgConfirm = 'ConfirmaÁ„o';
+  SMsgDlgInformation = 'Informa√ß√£o';
+  SMsgDlgConfirm = 'Confirma√ß√£o';
   SMsgDlgYes = '&Sim';
-  SMsgDlgNo = '&N„o';
+  SMsgDlgNo = '&N√£o';
   SMsgDlgOK = 'OK';
   SMsgDlgCancel = 'Cancela';
   SMsgDlgHelp = '&Ajuda';
-  SMsgDlgHelpNone = 'Ajuda n„o disponÌvel';
+  SMsgDlgHelpNone = 'Ajuda n√£o dispon√≠vel';
   SMsgDlgHelpHelp = 'Ajuda';
   SMsgDlgAbort = '&Abortar';
   SMsgDlgRetry = '&Repetir';
   SMsgDlgIgnore = '&Ignorar';
   SMsgDlgAll = '&Todos';
-  SMsgDlgNoToAll = 'N&„o para todos';
+  SMsgDlgNoToAll = 'N&√£o para todos';
   SMsgDlgYesToAll = 'S&im para todos';
 
   SmkcBkSp = 'BkSp';
@@ -157,15 +157,15 @@ resourcestring
   srNone = '(Nenhum)';
   SOutOfRange = 'Valor deve estar entre %d e %d';
 
-  SDateEncodeError = 'Arqumento inv·lido para decodificar data';
+  SDateEncodeError = 'Arqumento inv√°lido para decodificar data';
   SDefaultFilter = 'Todos os arquivos (*.*)|*.*';
   sAllFilter = 'Todos';
-  SNoVolumeLabel = ': [ - sem rÛtulo - ]';
-  SInsertLineError = 'N„o È possÌvel inserir linhas';
+  SNoVolumeLabel = ': [ - sem r√≥tulo - ]';
+  SInsertLineError = 'N√£o √© poss√≠vel inserir linhas';
 
-  SConfirmCreateDir = 'O diretÛrio especificado n„o existe. Cri·-lo?';
-  SSelectDirCap = 'Selecione o diretÛrio';
-  SDirNameCap = 'DiretÛrio &Nome:';
+  SConfirmCreateDir = 'O diret√≥rio especificado n√£o existe. Cri√°-lo?';
+  SSelectDirCap = 'Selecione o diret√≥rio';
+  SDirNameCap = 'Diret√≥rio &Nome:';
   SDrivesCap = 'D&rives:';
   SDirsCap = '&Diretorios:';
   SFilesCap = '&Arquivos: (*.*)';
@@ -174,59 +174,59 @@ resourcestring
   SColorPrefix = 'Cor';                 //!! obsolete - delete in 5.0
   SColorTags = 'ABCDEFGHIJKLMNOP';      //!! obsolete - delete in 5.0
 
-  SInvalidClipFmt = 'Formato na ·rea de transferÍncia inv·lido';
-  SIconToClipboard = '¡rea de transferÍncia n„o suporta Ìcones';
-  SCannotOpenClipboard = 'N„o posso abrir a ·rea de transferÍncia';
+  SInvalidClipFmt = 'Formato na √°rea de transfer√™ncia inv√°lido';
+  SIconToClipboard = '√Årea de transfer√™ncia n√£o suporta √≠cones';
+  SCannotOpenClipboard = 'Problema ao abrir a √°rea de transfer√™ncia';
 
-  SDefault = 'Padr„o';
+  SDefault = 'Padr√£o';
 
   SInvalidMemoSize = 'Texto excedeu a capacidade de 32K';
   SCustomColors = 'Personalizar Cores';
-  SInvalidPrinterOp = 'OperaÁ„o n„o suportada ao selecionar impressora';
-  SNoDefaultPrinter = 'Esta impressora selecionada n„o È a default';
+  SInvalidPrinterOp = 'Opera√ß√£o n√£o suportada ao selecionar impressora';
+  SNoDefaultPrinter = 'Esta impressora selecionada n√£o √© a default';
 
   SIniFileWriteError = 'Incapaz de gravar para %s';
 
-  SBitsIndexError = 'Õndice de Bits fora de faixa';
+  SBitsIndexError = '√çndice de Bits fora de faixa';
 
-  SUntitled = '(Sem TÌtulo)';
+  SUntitled = '(Sem T√≠tulo)';
 
-  SInvalidRegType = 'Tipo de dado inv·lido para ''%s''';
+  SInvalidRegType = 'Tipo de dado inv√°lido para ''%s''';
 
-  SUnknownConversion = 'Incapaz de converter arquivo de extenÁ„o (.%s) para RichEdit';
-  SDuplicateMenus = 'Menu ''%s'' j· est· inicializado e usado por outro formul·rio';
+  SUnknownConversion = 'Incapaz de converter arquivo de exten√ß√£o (.%s) para RichEdit';
+  SDuplicateMenus = 'Menu ''%s'' j√° est√° inicializado e usado por outro formul√°rio';
 
   SPictureLabel = 'Imagem:';
   SPictureDesc = ' (%dx%d)';
   SPreviewLabel = 'Visualizar';
 
-  SCannotOpenAVI = 'N„o È possÌvel abrir arquivo AVI';
+  SCannotOpenAVI = 'N√£o √© poss√≠vel abrir arquivo AVI';
 
-  SNotOpenErr = 'Dispositivo MCI n„o aberto';
-  SMPOpenFilter = 'Todos arquivos (*.*)|*.*|Arquivos wave (*.wav)|*.wav|Arquivos Midi (*.mid)|*.mid|VÌdeo para Windows (*.avi)|*.avi';
+  SNotOpenErr = 'Dispositivo MCI n√£o aberto';
+  SMPOpenFilter = 'Todos arquivos (*.*)|*.*|Arquivos wave (*.wav)|*.wav|Arquivos Midi (*.mid)|*.mid|V√≠deo para Windows (*.avi)|*.avi';
   SMCINil = '';
-  SMCIAVIVideo = 'AVIVÌdeo';
+  SMCIAVIVideo = 'AVIV√≠deo';
   SMCICDAudio = 'CDAudio';
   SMCIDAT = 'DAT';
-  SMCIDigitalVideo = 'VÌdeo Digital';
+  SMCIDigitalVideo = 'V√≠deo Digital';
   SMCIMMMovie = 'MMMovie';
   SMCIOther = 'Outro';
   SMCIOverlay = 'Sobreposto';
   SMCIScanner = 'Scanner';
-  SMCISequencer = 'Seq¸Íncia';
+  SMCISequencer = 'Seq√º√™ncia';
   SMCIVCR = 'VCR';
-  SMCIVideodisc = 'VÌdeo disco';
-  SMCIWaveAudio = '¡udio Wave';
-  SMCIUnknownError = 'CÛdigo de erro desconhecido';
+  SMCIVideodisc = 'V√≠deo disco';
+  SMCIWaveAudio = '√Åudio Wave';
+  SMCIUnknownError = 'C√≥digo de erro desconhecido';
 
-  SBoldItalicFont = 'Negrito It·lico';
+  SBoldItalicFont = 'Negrito It√°lico';
   SBoldFont = 'Negrito';
-  SItalicFont = 'It·lico';
+  SItalicFont = 'It√°lico';
   SRegularFont = 'Normal';
 
   SPropertiesVerb = 'Propriedades';
 
-  SServiceFailed = 'Falha de serviÁo em %s: %s';
+  SServiceFailed = 'Falha de servi√ßo em %s: %s';
   SExecute = 'Executar';
   SStart = 'Iniciar';
   SStop = 'Parar';
@@ -234,76 +234,76 @@ resourcestring
   SContinue = 'continuar';
   SInterrogate = 'interrogar';
   SShutdown = 'Reiniciar';
-  SCustomError = 'Falha de serviÁo sob a mensagem (%d): %s';
-  SServiceInstallOK = 'ServiÁo instalado com sucesso';
-  SServiceInstallFailed = 'ServiÁo "%s" falho ou instalado com erro: "%s"';
-  SServiceUninstallOK = 'ServiÁo desinstalado com successo';
-  SServiceUninstallFailed = 'ServiÁo "%s" falho ou desinstalado com erro: "%s"';
+  SCustomError = 'Falha de servi√ßo sob a mensagem (%d): %s';
+  SServiceInstallOK = 'Servi√ßo instalado com sucesso';
+  SServiceInstallFailed = 'Servi√ßo "%s" falho ou instalado com erro: "%s"';
+  SServiceUninstallOK = 'Servi√ßo desinstalado com successo';
+  SServiceUninstallFailed = 'Servi√ßo "%s" falho ou desinstalado com erro: "%s"';
 
-  SInvalidActionRegistration = 'Registo de aÁ„o inv·lido';
-  SInvalidActionUnregistration = 'AÁ„o inv·lida ao desregistrar';
-  SInvalidActionEnumeration = 'AÁ„o de enumeraÁ„o inv·lida';
-  SInvalidActionCreation = 'AÁ„o de criaÁ„o inv·lida';
+  SInvalidActionRegistration = 'Registo de a√ß√£o inv√°lido';
+  SInvalidActionUnregistration = 'A√ß√£o inv√°lida ao desregistrar';
+  SInvalidActionEnumeration = 'A√ß√£o de enumera√ß√£o inv√°lida';
+  SInvalidActionCreation = 'A√ß√£o de cria√ß√£o inv√°lida';
   
   SDockedCtlNeedsName = 'O controle acoplado deve ter um conhecido';
-  SDockTreeRemoveError = 'Erro removendo controle da ·rvore';
-  SDockZoneNotFound = ' - Zona da doca n„o encontrada';
-  SDockZoneHasNoCtl = ' - Zona da doca n„o tem controle';
+  SDockTreeRemoveError = 'Erro removendo controle da √°rvore';
+  SDockZoneNotFound = ' - Zona da doca n√£o encontrada';
+  SDockZoneHasNoCtl = ' - Zona da doca n√£o tem controle';
 
   SAllCommands = 'Todos Comandos';
 
-  SDuplicateItem = 'Lista n„o permite duplicados ($0%x)';
+  SDuplicateItem = 'Lista n√£o permite duplicados ($0%x)';
 
-  STextNotFound = 'Texto n„o encontrado: "%s"';
-  SBrowserExecError = 'Nenhum navegador padr„o È especificado';
+  STextNotFound = 'Texto n√£o encontrado: "%s"';
+  SBrowserExecError = 'Nenhum navegador padr√£o √© especificado';
 
   SColorBoxCustomCaption = 'Customizar...';
 
-  SMultiSelectRequired = 'Mode multiseleÁ„o deve be on for this feature';
+  SMultiSelectRequired = 'Mode multisele√ß√£o deve be on for this feature';
 
   SKeyCaption = 'Chave';
   SValueCaption = 'Valor';
-  SKeyConflict = 'Uma chave com o nome de "%s" j· existe';
-  SKeyNotFound = 'Chave "%s" n„o encontrada';
-  SNoColumnMoving = 'goColMoving n„o È uma opÁ„o suportada';
-  SNoEqualsInKey = 'Chave n„o pode conter sinal igual a ("=")';
+  SKeyConflict = 'Uma chave com o nome de "%s" j√° existe';
+  SKeyNotFound = 'Chave "%s" n√£o encontrada';
+  SNoColumnMoving = 'goColMoving n√£o √© uma op√ß√£o suportada';
+  SNoEqualsInKey = 'Chave n√£o pode conter sinal igual a ("=")';
 
   SSendError = 'Erro enviando email';
   SAssignSubItemError = 'Cannot assign a subitem to an actionbar when one of it''s parent''s is already assigned to an actionbar';
   SDeleteItemWithSubItems = 'Item %s possue subitens, apagar mesmo assim?';
-  SDeleteNotAllowed = 'VocÍ n„o tem permiss„o de apagar este item';
-  SMoveNotAllowed = 'Item %s n„o tem permiss„o de ser movido';    
-  SMoreButtons = 'Mais Botıes';
+  SDeleteNotAllowed = 'Voc√™ n√£o tem permiss√£o de apagar este item';
+  SMoveNotAllowed = 'Item %s n√£o tem permiss√£o de ser movido';    
+  SMoreButtons = 'Mais Bot√µes';
   SErrorDownloadingURL = 'Erro carregando URL: %s';
-  SUrlMonDllMissing = 'ImpossÌvel carregar %s';
-  SAllActions = '(Todas as AÁıes)';
+  SUrlMonDllMissing = 'Imposs√≠vel carregar %s';
+  SAllActions = '(Todas as A√ß√µes)';
   SNoCategory = '(Sem Categoria)';
   SExpand = 'Expandir';
   SErrorSettingPath = 'Erro ajustando path: "%s"';
   SLBPutError = 'Attempting to put items into a virtual style listbox';
-  SErrorLoadingFile = 'Erro carregando arquivo de ajustes salvos anteriormente: %s'#13'VocÍ gostaria de apag·-lo?';
+  SErrorLoadingFile = 'Erro carregando arquivo de ajustes salvos anteriormente: %s'#13'Voc√™ gostaria de apag√°-lo?';
   SResetUsageData = 'Restaurar todos os dados usados?';
   SFileRunDialogTitle = 'Executar';
   SNoName = '(Sem Nome Name)';
-  SErrorActionManagerNotAssigned = 'ActionManager deve primeiro ser atribuÌdo';
-  SAddRemoveButtons = '&Adiciona ou Remove Botıes';
+  SErrorActionManagerNotAssigned = 'ActionManager deve primeiro ser atribu√≠do';
+  SAddRemoveButtons = '&Adiciona ou Remove Bot√µes';
   SResetActionToolBar = 'Restaurar Toolbar';
   SCustomize = '&Customizar';
   SSeparator = 'Separador';
-  SCirularReferencesNotAllowed = 'ReferÍncias circulares n„o permitidas';
-  SCannotHideActionBand = '%s n„o permite esconder';
+  SCirularReferencesNotAllowed = 'Refer√™ncias circulares n√£o permitidas';
+  SCannotHideActionBand = '%s n√£o permite esconder';
   SErrorSettingCount = 'Erro ajustando %s.Count';
   SListBoxMustBeVirtual = 'Listbox (%s) stilo deve ser virtual na ordem para ajustar Count';
-  SUnableToSaveSettings = 'ImpossÌvel salvar ajustes';
-  SRestoreDefaultSchedule = 'VocÍ gostaria de restaurar para a ProgramaÁ„o Priorit·ria padr„o?';
-  SNoGetItemEventHandler = 'Nemhum manipulador de evento OnGetItem atribuÌdo';
+  SUnableToSaveSettings = 'Imposs√≠vel salvar ajustes';
+  SRestoreDefaultSchedule = 'Voc√™ gostaria de restaurar para a Programa√ß√£o Priorit√°ria padr√£o?';
+  SNoGetItemEventHandler = 'Nemhum manipulador de evento OnGetItem atribu√≠do';
   SInvalidColorMap = 'Invalid Colormap deste ActionBand requer ColorMaps do tipo TCustomActionBarColorMapEx';
-  SDuplicateActionBarStyleName = 'Um estilo chamado %s j· foi registrado';
+  SDuplicateActionBarStyleName = 'Um estilo chamado %s j√° foi registrado';
   SStandardStyleActionBars = 'Estilo Standard';
   SXPStyleActionBars = 'Estilo XP';
-  SActionBarStyleMissing = 'Unit sem nenhum estilo ActionBand presente na cl·usula uses.'#13 +
-    'Sua aplicaÁ„o deve incluir qualquer XPStyleActnCtrls, StdStyleActnCtrls ou ' +
-    'um componente ActionBand de terceiros presente na cl·usula uses.';
+  SActionBarStyleMissing = 'Unit sem nenhum estilo ActionBand presente na cl√°usula uses.'#13 +
+    'Sua aplica√ß√£o deve incluir qualquer XPStyleActnCtrls, StdStyleActnCtrls ou ' +
+    'um componente ActionBand de terceiros presente na cl√°usula uses.';
 
 implementation
 
